@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "Day 1"
+    },
+    {
+      "path": "Day 2"
+    }
+  ],
+  "settings": {
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": false
+  }
+}
